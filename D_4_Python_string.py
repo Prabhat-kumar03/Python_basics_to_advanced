@@ -16,9 +16,9 @@ str_2='''HI !
         This is Python.'''
 print("eg. : ",str_2)
 
-# Indexing in Pyhton
+# Indexing in Python
 
-print("\nPython Strings supports Indexing starting from 0 till length of String -1.")
+print("\nPython Strings supports Indexing starting from 0 till length of \(String -1.\)")
 print("Also , the last Char of string has an index of -1 and rest in decreasing order towards left like -2 -3 ...")
 print("Example :")
 str_3="Python"
@@ -72,7 +72,7 @@ print("{} is the {} {}".format("Honesty","best","Policy"))
 print("\nAlso we can reorder the agruements position by indexing the format specifier.")
 print("\"{1} is the {2} {0}\".format(\"Honesty\",\"best\",\"Policy\") is interpreted as -")
 print("{1} is the {2} {0}".format("Honesty","best","Policy"))
-print("\nThere we can also use variabls to store the substrings.The variables are placed in format specifiers and are replaced by corresponding arguements.")
+print("\nThere we can also use variables to store the substrings.The variables are placed in format specifiers and are replaced by corresponding arguements.")
 print("For example - \"{l} is {k} \".format(k=\"Impossible\",l=\"Nothing\") is interpreted as -")
 print("{l} is {k} ".format(k="Impossible",l="Nothing"))
 print("\nFormat method is also used to convert different numbers in different forms like Binary , hexa etc.")
