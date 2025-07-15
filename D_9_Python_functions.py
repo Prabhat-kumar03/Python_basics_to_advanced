@@ -60,7 +60,7 @@ print("As python functions are blocks of code that perform specific task.")
 print("In order to get an output , a return statement is required to get an output rether than print.")
 print("The return statement is like -\nreturn Expression")
 print("For example -\n\tdef product(x,y):\n\t    return x*y\n\tprint(product(2,3))")
-print("The ablove functioon has a return statement that returns the value x*y.\nOutpupt is :")
+print("The above function has a return statement that returns the value x*y.\nOutpupt is :")
 def product(x,y):
     return x*y
 print(product(2,3))

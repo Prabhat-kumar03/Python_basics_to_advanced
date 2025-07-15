@@ -1,7 +1,7 @@
 # Day_8 Python_from_Scratch
 # Sets
 print("\t\t\t Sets :")
-print("Sets are unordered collection(No Indexing) of elements. Represented by var_name={} , and similar to list ans=d tuples , each element is seperated by comma.")
+print("Sets are unordered collection(No Indexing) of elements. Represented by var_name={} , and similar to list and tuples , each element is seperated by comma.")
 print("It is much faster than List and Tuples.It is semi-immutable i.e we can,t change values , it can be only added or deleted.")
 print("It is unordered i.e the items stored in sets don't have an order.")
 set_1={"A","B","C","D"}
